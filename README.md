@@ -2,8 +2,8 @@
 
 ## BackEnd
 
-Sistema de cadastro de livros, utilizando Spring Boot, JPA e Hibernate
+Sistema de cadastro de livros utilizando Spring Boot, JPA e Hibernate
 
 ## FrontEnd
 
-UI e integração com o backend utilizando VueJS e TypeScript
+UI e integração com o backend utilizando VueJS
